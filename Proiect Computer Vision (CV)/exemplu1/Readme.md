@@ -9,7 +9,7 @@ Comunitate AI in actiune [group FB](https://www.facebook.com/groups/aiinactiune)
 
 ### ML notiuni
 Pentru inceput ar trebui sa stii notiunile de baza, ce inseamna diferite cuvinte cheie
-#### Invatare supervizata [medium en](https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590) [video en] (https://www.youtube.com/watch?v=kE5QZ8G_78c&ab_channel=Simplilearn) [short video en](https://www.youtube.com/watch?v=TJveOYsK6MY&ab_channel=Quantopian)
+#### Invatare supervizata [medium en](https://towardsdatascience.com/a-brief-introduction-to-supervised-learning-54a3e3932590) [video en](https://www.youtube.com/watch?v=kE5QZ8G_78c&ab_channel=Simplilearn) [short video en](https://www.youtube.com/watch?v=TJveOYsK6MY&ab_channel=Quantopian)
 * Clasificarea [free course ro](https://course.elementsofai.com/) 
 
 
